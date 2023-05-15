@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "clean": "rimraf \"{.next,dist,build,out,node_modules}\"",
-    "dev": "next dev -p 3011",
+    "dev": "next dev -p 3050",
     "build": "next build",
-    "start": "next start -p 3011"
+    "start": "next start -p 3050"
   },
   "dependencies": {
     "@fontsource/open-sans": "^4.5.14",
